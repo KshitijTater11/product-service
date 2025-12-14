@@ -54,3 +54,4 @@ curl -X POST -H "X-API-Version: 1.0" -H "Content-Type: application/json" \
 - `DELETE /api/products/{id}` - Delete product (soft delete)
 - `POST /api/products/{id}/images` - Upload product images
 - `POST /api/products/{id}/related` - Link related products
+# product-service
