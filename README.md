@@ -1,4 +1,4 @@
-# product-service
+# product-services
 
 Spring Boot product service with MongoDB.
 
